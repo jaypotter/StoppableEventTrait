@@ -7,6 +7,7 @@
     },
     "suggest": {
         "potter/stoppable-event": "dev-main",
+        "potter/event-traits": "dev-main",
         "potter/event": "dev-main",
         "potter/traits": "dev-main",
         "potter/framework": "dev-main"
